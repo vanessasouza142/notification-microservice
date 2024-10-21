@@ -1,0 +1,11 @@
+pt-BR:
+  activerecord:
+    models:
+      notification: 'Notificação'
+    attributes:
+      notification:
+        task_id: 'Id da tarefa'
+        task_url: 'URL da tarefa'
+        task_status: 'Status da tarefa'
+        action: 'Ação'
+        action_done_by_user: 'Usuário que realizou a ação'
